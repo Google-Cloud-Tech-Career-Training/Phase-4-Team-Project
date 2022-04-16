@@ -1,5 +1,5 @@
 # HelloCloudWorld-
-This is our first Team Project in Phase 4.
+This is our first Team Project in Phase 4. Group members are: Cherie, Justice and Aliyah)
 The simple instructions are to:
 1. Remix the lab by creating a simple Python application. A simle one line code has been created by Cherie first.
 Here is the code: print("Hello Cloud Fellows from Cherie!)
